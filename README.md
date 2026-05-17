@@ -6,7 +6,7 @@ A collection of data architecture, data engineering, ETL, semantic modelling, an
 
 # Projects
 Customer 360 Data Architecture Project
-(https://github.com/karthic180/dataarchitecture/blob/main/C360_ReadMe.md)
+(https://github.com/karthic180/C360/blob/main/README.md)
 
 ## Microsoft Fabric Lakehouse Architecture
 - Designed scalable lakehouse architecture
