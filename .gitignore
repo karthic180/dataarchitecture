@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# CSV / Export Files
+exports/
+output/
+temp/
+tmp/
+
+# Power BI
+*.pbix.autosave
+*.pbix.lock
+
+# Fabric / Data Pipeline Temp Files
+.fabric/
+.fabriccache/
+
+# Environment Variables
+.env.*
+.env
+
+# Node
+node_modules/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/
+
+# Secrets / Keys
+*.pem
+*.key
+secrets/
+credentials/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Azure
+.azure/
+
+# AWS
+.aws/
+
+# Google Cloud
+.gcloud/
+
+# Docker
+docker-compose.override.yml
+
+# Data files
+*.parquet
+*.feather
+
+# Large data dumps
+data/raw/
+data/processed/
+
+# Cache
+.cache/
+
+# Temporary files
+*.tmp
+*.bak
