@@ -5,6 +5,7 @@ A collection of data architecture, data engineering, ETL, semantic modelling, an
 ---
 
 # Projects
+Customer 360 Data Architecture Project
 
 ## Microsoft Fabric Lakehouse Architecture
 - Designed scalable lakehouse architecture
